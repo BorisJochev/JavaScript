@@ -1,6 +1,6 @@
 
 
-let year = prompt("Vnesete godina na radjanje");
+let year = prompt("Enter year of birth");
 let yearInput = parseInt(year);
 
 if(!Number.isNaN(yearInput)){
